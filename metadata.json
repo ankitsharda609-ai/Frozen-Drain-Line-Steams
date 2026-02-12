@@ -1,0 +1,8 @@
+
+{
+  "name": "Frozen Drain Line Steam",
+  "description": "Professional sewer thawing and frozen drain line steaming services in West Fargo, ND. Emergency ice blockage removal for residential and commercial plumbing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
